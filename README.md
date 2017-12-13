@@ -9,3 +9,5 @@ _While I pondered weak and weary_
 <b>bold</b>  
 
 I typed everything above on the master branch in the web interface
+
+[My favorite repository is the Cable Bible](https://github.com/amiaopensource/cable-bible)
